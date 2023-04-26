@@ -1,3 +1,14 @@
+# LWC II - Exercício 2
+
+Monte um componente chamado oppsdaconta (oppsdaconta.html | oppsdaconta.js) esse componente deve estar preparado para receber
+valores do pai (propriedade publica), os atributos publicos são são id,
+nome, valor, fase.
+
+Os dados recebidos devem ser exibidos no componente (oppsdaconta.html)
+
+Depois de montado, chame ele (c-oppsdaconta) em App(pai) passando valores para as propriedades 5 vezes
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
